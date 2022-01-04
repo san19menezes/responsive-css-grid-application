@@ -1,2 +1,2 @@
 # responsive-css-grid-application
-This is a sample practice application for CSS grid layout
+This is a Sample Application for CSS grid layout Responsive UI
